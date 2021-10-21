@@ -1,2 +1,2 @@
 # aio.vk_api-test_repo
-a temporary repository for testing github capabilities.
+> this repository was created in order to test the capabilities of github and also learn how to use it more skillfully.
